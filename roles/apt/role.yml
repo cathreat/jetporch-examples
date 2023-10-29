@@ -1,0 +1,9 @@
+---
+
+defaults:
+  foo: "bar"
+
+name: apt
+
+tasks:
+  - apt.yml

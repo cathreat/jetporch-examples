@@ -1,0 +1,8 @@
+---
+
+- !shell
+  cmd: apt update
+
+- !apt
+  package: python3-pip
+  update: true

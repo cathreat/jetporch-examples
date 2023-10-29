@@ -1,0 +1,5 @@
+- name: Playbook examples
+  groups:
+    - all
+  roles:
+    - role: apt
